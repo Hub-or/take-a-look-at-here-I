@@ -23,7 +23,10 @@ https://filezilla-project.org/
 #### Rufus Create bootable USB drives for Windows | Rufus 创建适配Windows系统的USB启动盘  
 https://rufus.ie/zh/  
 
-### Site
+#### MinGW-w64 Installer | MinGW-w64 安装器
+https://sourceforge.net/projects/mingw-w64/
+
+### Site | 站点
 #### Tuna Tsinghua Open Source Mirror | Tuna 清华大学开源软件镜像站  
 https://mirrors.tuna.tsinghua.edu.cn/  
 Use Example：| 使用方法：  
