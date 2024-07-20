@@ -23,8 +23,8 @@ https://filezilla-project.org/
 #### Rufus Create bootable USB drives for Windows | Rufus 创建适配Windows系统的USB启动盘  
 https://rufus.ie/zh/  
 
-#### MinGW-w64 Installer | 安装 MinGW-w64 C++语言编译器
-https://sourceforge.net/projects/mingw-w64/
+#### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器
+https://sourceforge.net/projects/mingw-w64/files/
 
 ### Site | 站点
 #### Tuna Tsinghua Open Source Mirror | Tuna 清华大学开源软件镜像站  
