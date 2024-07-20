@@ -24,10 +24,10 @@ https://filezilla-project.org/
 https://rufus.ie/zh/  
 
 #### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器  
-https://sourceforge.net/projects/mingw-w64/files/  
+https://nuwen.net/mingw.html  
 Download position: | 下载位置：  
-The first blue hyperlink after Download title.  
-标题后首个蓝色超链接。
+The first hyperlink in web page after Download subtitle.  
+超链接页面中"Download"标题后首个超链接。  
 
 ### Site | 站点
 #### Tuna Tsinghua Open Source Mirror | Tuna 清华大学开源软件镜像站  
