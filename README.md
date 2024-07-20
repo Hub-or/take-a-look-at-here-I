@@ -23,7 +23,7 @@ https://filezilla-project.org/
 #### Rufus Create bootable USB drives for Windows | Rufus 创建适配Windows系统的USB启动盘  
 https://rufus.ie/zh/  
 
-#### MinGW-w64 Installer | MinGW-w64 安装器
+#### MinGW-w64 Installer | 安装 MinGW-w64 C++语言编译器
 https://sourceforge.net/projects/mingw-w64/
 
 ### Site | 站点
