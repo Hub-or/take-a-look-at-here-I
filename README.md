@@ -23,10 +23,10 @@ https://filezilla-project.org/
 #### Rufus Create bootable USB drives for Windows | Rufus 创建适配Windows系统的USB启动盘  
 https://rufus.ie/zh/  
 
-#### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器
-https://sourceforge.net/projects/mingw-w64/files/
-Download position: | 下载位置：
-The first blue hyperlink after Download title.
+#### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器  
+https://sourceforge.net/projects/mingw-w64/files/  
+Download position: | 下载位置：  
+The first blue hyperlink after Download title.  
 标题后首个蓝色超链接。
 
 ### Site | 站点
@@ -34,5 +34,5 @@ The first blue hyperlink after Download title.
 https://mirrors.tuna.tsinghua.edu.cn/  
 Use Example：| 使用方法：  
 Page text box type in: | 页面文本框键入：  
-Ubuntu
+Ubuntu  
 -> Ubuntu releases -> 24.04 -> ubuntu-24.04-desktop-amd64.iso  
