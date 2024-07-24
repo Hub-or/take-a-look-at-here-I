@@ -31,3 +31,7 @@ https://nuwen.net/mingw.html
 https://mirrors.tuna.tsinghua.edu.cn/  
 Manual: | 说明书：  
 https://mirrors.tuna.tsinghua.edu.cn/help/   
+Use Example: | 使用案例：  
+Page text box type in: | 页面文本框键入：  
+Ubuntu  
+-> Ubuntu releases -> 24.04 -> ubuntu-24.04-desktop-amd64.iso 
