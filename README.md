@@ -41,3 +41,10 @@ https://git-scm.com/
 
 #### Docker  
 https://www.docker.com/  
+
+### Know | 认识
+#### Linux Kernel | Linux 内核  
+https://www.kernel.org/  
+
+#### OpenHarmony Kernel | OpenHarmony 内核  
+https://gitee.com/openharmony  
