@@ -38,7 +38,7 @@ Ubuntu
 
 #### Git  
 https://git-scm.com/  
-界面卡组: | Interface Deck：
+Interface Deck: | 界面卡组：  
 https://training.github.com/
 
 #### Docker  
