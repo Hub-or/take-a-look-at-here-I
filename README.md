@@ -50,3 +50,7 @@ https://www.kernel.org/
 
 #### OpenHarmony Kernel | OpenHarmony 内核  
 https://gitee.com/openharmony  
+
+### Participate | 参与  
+#### CS50 Computer Science Open Course Series | CS50 计算机科学开放课程系列
+https://www.edx.org/cs50
