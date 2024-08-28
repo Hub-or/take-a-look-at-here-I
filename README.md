@@ -53,4 +53,7 @@ https://gitee.com/openharmony
 
 ### Participate | 参与  
 #### CS50 Computer Science Open Course Series | CS50 计算机科学开放课程系列
-https://www.edx.org/cs50
+https://www.edx.org/cs50  
+
+#### DevDocs Programming Language Documentation | 编程语言文档  
+https://devdocs.io/  
