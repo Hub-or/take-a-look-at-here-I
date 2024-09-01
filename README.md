@@ -58,5 +58,6 @@ https://www.edx.org/cs50
 #### DevDocs Programming Language Documentation | DevDocs 编程语言文档  
 https://devdocs.io/  
 
-#### Princeton English Vocabulary Classification Database | 普林斯顿英文词汇分类数据库
-https://wordnet.princeton.edu/
+#### Inside look at modern web browser | 深入了解现代网络浏览器
+https://developer.chrome.com/blog/inside-browser-part1
+https://zhuanlan.zhihu.com/p/102149546
