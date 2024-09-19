@@ -1,4 +1,5 @@
 # links
+### Expand | 拓展  
 
 ### Generation | 规范  
 #### Naming | 命名  
@@ -16,6 +17,8 @@ Use type hints on interfaces | 接口处使用类型提示
 #### Words | 随笔
 The system or application has robustness, excluding functions | 系统或应用存在鲁棒性，排除函数  
 
+#### Notice: Copy URL to horizontal text bar above the browser. | 注意：复制URL到浏览器上方导航栏文本框横条。
+
 ### Application | 应用  
 #### FileZilla File Transfer | FileZilla 传输文件  
 https://filezilla-project.org/
@@ -26,8 +29,8 @@ https://rufus.ie/zh/
 #### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器  
 https://nuwen.net/mingw.html  
 
-### Site | 站点
-#### Tuna Tsinghua Open Source Mirror | Tuna 清华大学开源软件镜像站  
+### Site | 资源站点
+#### Tuna Tsinghua Open Source Mirror | Tuna 清华大学开源应用文件镜像  
 https://mirrors.tuna.tsinghua.edu.cn/  
 Manual: | 说明书：  
 https://mirrors.tuna.tsinghua.edu.cn/help/   
@@ -36,13 +39,19 @@ Page text box type in: | 页面文本框键入：
 Ubuntu  
 -> Ubuntu releases -> 24.04 -> ubuntu-24.04-desktop-amd64.iso  
 
-#### Git  
+#### Git Record and Trace File Operations | Git 记录和回溯文件操作应用  
 https://git-scm.com/  
 Interface Deck: | 界面卡组：  
 https://training.github.com/
 
-#### Docker  
+#### Docker Cross Computer Operating System Universal Free Application Platform Application and Store | Docker 跨电脑操作系统通用免费应用平台应用和商店  
 https://www.docker.com/  
+
+#### Duet Connect and Adapt Touch Screen for Computers | Duet 面向电脑连接和适配触摸屏幕应用  
+https://www.duetdisplay.com/   
+
+#### DevDocs Programming Language Documentation | DevDocs 编程语言文档  
+https://devdocs.io/  
 
 ### Know | 认识
 #### Linux Kernel | Linux 内核  
@@ -55,9 +64,6 @@ https://gitee.com/openharmony
 #### CS50 Computer Science Open Course Series | CS50 计算机科学开放课程系列
 https://www.edx.org/cs50  
 
-#### DevDocs Programming Language Documentation | DevDocs 编程语言文档  
-https://devdocs.io/  
-
 #### Inside look at modern web browser | 深入了解现代网络浏览器
 https://developer.chrome.com/blog/inside-browser-part1  
-https://zhuanlan.zhihu.com/p/102149546
+https://zhuanlan.zhihu.com/p/102149546  
