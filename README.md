@@ -53,6 +53,10 @@ https://www.duetdisplay.com/
 #### DevDocs Programming Language Documentation | DevDocs 编程语言文档  
 https://devdocs.io/  
 
+#### Computer Science Wiki | 计算机科学维基  
+"Wiki" word - As website allows visitors to add or modify data | “维基”词汇-作为网站允许访问者添加或修改数据  
+https://computersciencewiki.org/index.php?title=Welcome  
+
 ### Know | 认识
 #### Linux Kernel | Linux 内核  
 https://www.kernel.org/  
@@ -61,6 +65,9 @@ https://www.kernel.org/
 https://gitee.com/openharmony  
 
 ### Participate | 参与  
+#### Classic Programming Languages Open Course Series | 经典编程语言开放课程系列
+https://www.icourse163.org/u/wengkai?userId=318013
+
 #### CS50 Computer Science Open Course Series | CS50 计算机科学开放课程系列
 https://www.edx.org/cs50  
 
