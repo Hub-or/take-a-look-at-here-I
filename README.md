@@ -65,12 +65,13 @@ https://www.kernel.org/
 https://gitee.com/openharmony  
 
 ### Participate | 参与  
-#### Classic Programming Languages Open Course Series | 经典编程语言开放课程系列
-https://www.icourse163.org/u/wengkai?userId=318013
-
 #### CS50 Computer Science Open Course Series | CS50 计算机科学开放课程系列
 https://www.edx.org/cs50  
 
 #### Inside look at modern web browser | 深入了解现代网络浏览器
 https://developer.chrome.com/blog/inside-browser-part1  
 https://zhuanlan.zhihu.com/p/102149546  
+
+### Consider | 考虑
+#### Classic Programming Languages Open Course Series | 经典编程语言开放课程系列
+https://www.icourse163.org/u/wengkai?userId=318013
