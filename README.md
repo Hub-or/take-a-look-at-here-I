@@ -59,6 +59,8 @@ https://computersciencewiki.org/index.php?title=Welcome
 
 #### GNU Compiler Collection(GCC) | GNU编译器套件（GCC）  
 https://gcc.gnu.org/  
+Documentation: | 说明文档：  
+https://gcc.gnu.org/onlinedocs/gcc-14.2.0/gcc/  
 
 ### Know | 认识
 #### Linux Kernel | Linux 内核  
