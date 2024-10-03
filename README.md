@@ -57,11 +57,6 @@ https://devdocs.io/
 "Wiki" word - As website allows visitors to add or modify data | “维基”词汇-作为网站允许访问者添加或修改数据  
 https://computersciencewiki.org/index.php?title=Welcome  
 
-#### GNU Compiler Collection(GCC) | GNU编译器套件（GCC）  
-https://gcc.gnu.org/  
-Documentation: | 说明文档：  
-https://gcc.gnu.org/onlinedocs/gcc-14.2.0/gcc/  
-
 ### Know | 认识
 #### Linux Kernel | Linux 内核  
 https://www.kernel.org/  
@@ -78,7 +73,26 @@ https://developer.chrome.com/blog/inside-browser-part1
 https://zhuanlan.zhihu.com/p/102149546  
 
 ### Consider | 考虑
+#### Windows Learn | 微软学习  
+https://learn.microsoft.com/zh-cn/  
+
 #### Classic Programming Languages Open Course Series | 经典编程语言开放课程系列
 https://www.icourse163.org/u/wengkai?userId=318013
 
-#### Front ends | 前端
+#### GNU OS | GNU操作系统
+Compiler Collection | 编译器组合  
+https://gcc.gnu.org/  
+Manual Introduction: | 手册介绍：  
+https://gcc.gnu.org/onlinedocs/gcc-14.2.0/gcc/  
+Linker and Assembler to Binary Util | 链接器应用和组装器应用二进制工具  
+https://www.gnu.org/software/binutils/  
+Other | 其它  
+https://www.gnu.org/  
+https://ftp.gnu.org/  
+https://ftp.gnu.org/pub/old-gnu/  
+https://ftp.gnu.org/pub/old-gnu/Manuals/ld-2.9.1/ld.html  
+https://ftp.gnu.org/pub/old-gnu/Manuals/gas-2.9.1/as.html  
+Front ends | 前端  
+
+#### Ubuntu Code Library | 乌班图代码库  
+https://packages.ubuntu.com/  
