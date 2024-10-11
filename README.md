@@ -24,7 +24,7 @@ The system or application has robustness, excluding functions | 系统或应用�
 https://filezilla-project.org/
 
 #### Rufus Create bootable USB drives for Windows | Rufus 创建适配Windows系统的USB启动盘  
-https://rufus.ie/zh/  
+https://rufus.ie/  
 
 #### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器  
 https://nuwen.net/mingw.html  
@@ -37,7 +37,7 @@ https://mirrors.tuna.tsinghua.edu.cn/help/
 Use Example: | 使用案例：  
 Page text box type in: | 页面文本框键入：  
 Ubuntu  
--> Ubuntu releases -> 24.04 -> ubuntu-24.04-desktop-amd64.iso  
+-> Ubuntu releases -> 24.04 -> ubuntu-24.04.01-live-server-amd64.iso  
 
 #### Git Record and Trace File Operations | Git 记录和回溯文件操作应用  
 https://git-scm.com/  
@@ -47,8 +47,14 @@ https://training.github.com/
 #### Docker Cross Computer Operating System Universal Free Application Platform Application and Store | Docker 跨电脑操作系统通用免费应用平台应用和商店  
 https://www.docker.com/  
 
-#### Duet Connect and Adapt Touch Screen for Computers | Duet 面向电脑连接和适配触摸屏幕应用  
+#### Duet Connect and Adapt Touch Screen for Computers Application | Duet 面向电脑连接和适配触摸屏幕设备应用  
 https://www.duetdisplay.com/   
+
+#### Sunlogin Compute Devices View and Login Each Other Application | 向日葵 计算设备相互观看和登录应用  
+https://sunlogin.oray.com/  
+
+#### Windows App Mobile Operating System Remote Access Application | 窗户移动应用 操作系统远程访问应用  
+https://aka.ms/WindowsApp  
 
 #### DevDocs Programming Language Documentation | DevDocs 编程语言文档  
 https://devdocs.io/  
@@ -56,6 +62,12 @@ https://devdocs.io/
 #### Computer Science Wiki | 计算机科学维基  
 "Wiki" word - As website allows visitors to add or modify data | “维基”词汇-作为网站允许访问者添加或修改数据  
 https://computersciencewiki.org/index.php?title=Welcome  
+
+#### RFC Internet Application Document | RFC 互连网络应用文档  
+https://www.rfc-editor.org/  
+
+#### Rookie Tutorial | 菜鸟教程  
+https://www.runoob.com/  
 
 ### Know | 认识
 #### Linux Kernel | Linux 内核  
@@ -73,8 +85,8 @@ https://developer.chrome.com/blog/inside-browser-part1
 https://zhuanlan.zhihu.com/p/102149546  
 
 ### Consider | 考虑
-#### Windows Learn | 微软学习  
-https://learn.microsoft.com/zh-cn/  
+#### Microsoft Learn | 微软学习  
+https://learn.microsoft.com/  
 
 #### Classic Programming Languages Open Course Series | 经典编程语言开放课程系列
 https://www.icourse163.org/u/wengkai?userId=318013
@@ -96,3 +108,9 @@ Front ends | 前端
 
 #### Ubuntu Code Library | 乌班图代码库  
 https://packages.ubuntu.com/  
+
+#### x86 Chip Assembly Language Reference Manual | x86芯片汇编语言参考手册  
+https://docs.oracle.com/cd/E19504-01/802-1948/802-1948.pdf  
+
+#### 3Blue1Brown Math Animation | 三蓝一棕数学动画  
+https://www.3blue1brown.com/  
