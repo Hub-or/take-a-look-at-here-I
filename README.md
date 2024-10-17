@@ -121,3 +121,6 @@ https://leetcode.com/explore/
 
 #### Kaggle Analyze Data | Kaggle 分析数据  
 https://www.kaggle.com/  
+
+#### RealPython Python Language Material | 真实蟒蛇 蟒蛇语言材料  
+https://realpython.com/  
