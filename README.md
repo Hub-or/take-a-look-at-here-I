@@ -20,51 +20,49 @@ The system or application has robustness, excluding functions | 系统或应用�
 #### Notice: Copy URL to horizontal text bar above the browser. | 注意：复制URL到浏览器上方导航栏文本框横条。
 
 ### Application | 应用  
-#### FileZilla File Transfer | FileZilla 传输文件  
+#### FileZilla Transfer File by File Transfer Protocol | 文件专区 传输文件采用文件传输协议  
 https://filezilla-project.org/
 
-#### Rufus Create bootable USB drives for Windows | Rufus 创建适配Windows系统的USB启动盘  
+#### Rufus Install Operating System and Create Operating System Boot Disk | Rufus 安装操作系统(OS)和制作操作系统启动硬盘  
 https://rufus.ie/  
 
-#### MinGW-W64 Online Installer | 安装 MinGW-w64 C++语言代码编译器  
+#### 7-Zip Create Compressd File and Restore Compressed File | 7-Zip 制作压缩文件和还原压缩文件  
+https://sparanoid.com/lab/7z/  
+
+#### Install MinGW-W64 C++ Code Compiler Application | 安装 MinGW-w64 C++代码编译器应用  
 https://nuwen.net/mingw.html  
 
-### Site | 资源站点
-#### Tuna Tsinghua Open Source Mirror | Tuna 清华大学开源应用文件镜像  
+### Site | 站点
+#### Tuna Tsinghua University Open Source File Mirror | 吞拿鱼 清华大学开源文件镜像  
 https://mirrors.tuna.tsinghua.edu.cn/  
-Manual: | 说明书：  
+Manual Page: | 说明页面：  
 https://mirrors.tuna.tsinghua.edu.cn/help/   
-Use Example: | 使用案例：  
+Usage Example: | 使用案例：  
 Page text box type in: | 页面文本框键入：  
 Ubuntu  
 -> Ubuntu releases -> 24.04 -> ubuntu-24.04.01-live-server-amd64.iso  
 
-#### Git Record and Trace File Operations | Git 记录和回溯文件操作应用  
+#### Git Record, Trace and Backtrack File Operations  | 饭桶 记录、追踪和回溯文件操作应用  
 https://git-scm.com/  
-Interface Deck: | 界面卡组：  
-https://training.github.com/
 
-#### Docker Cross Computer Operating System Universal Free Application Platform Application and Store | Docker 跨电脑操作系统通用免费应用平台应用和商店  
+#### Docker Cross Computer Operating System Universal Free Application Platform Application and Store | 码头工人 跨电脑操作系统通用免费应用平台应用和商店  
 https://www.docker.com/  
 
-#### Duet Connect and Adapt Touch Screen for Computers Application | Duet 面向电脑连接和适配触摸屏幕设备应用  
+#### Duet Connect and Adapt Touch Screen for Computers Application | 二重奏 面向电脑连接和适配触摸屏幕设备应用  
 https://www.duetdisplay.com/   
 
-#### Sunlogin Compute Devices View and Login Each Other Application | 向日葵 计算设备相互观看和登录应用  
+#### Sunlogin Compute Devices View and Login Each Other Application | 向日葵(太阳登录) 计算设备相互观看和登录应用  
 https://sunlogin.oray.com/  
 
 #### Windows App Mobile Operating System Remote Access Application | 窗户移动应用 操作系统远程访问应用  
 https://aka.ms/WindowsApp  
 
-#### DevDocs Programming Language Documentation | DevDocs 编程语言文档  
+#### DevDocs Programming Language Documentation | DevDocs(一些开发文档) 编程语言文档  
 https://devdocs.io/  
 
 #### Computer Science Wiki | 计算机科学维基  
 "Wiki" word - As website allows visitors to add or modify data | “维基”词汇-作为网站允许访问者添加或修改数据  
 https://computersciencewiki.org/index.php?title=Welcome  
-
-#### RFC Internet Application Document | RFC 互连网络应用文档  
-https://www.rfc-editor.org/  
 
 #### Rookie Tutorial | 菜鸟教程  
 https://www.runoob.com/  
@@ -73,7 +71,7 @@ https://www.runoob.com/
 #### Linux Kernel | Linux 内核  
 https://www.kernel.org/  
 
-#### OpenHarmony Kernel | OpenHarmony 内核  
+#### OpenHarmony Kernel | 和谐开放内核  
 https://gitee.com/openharmony  
 
 ### Participate | 参与  
@@ -114,3 +112,12 @@ https://docs.oracle.com/cd/E19504-01/802-1948/802-1948.pdf
 
 #### 3Blue1Brown Math Animation | 三蓝一棕数学动画  
 https://www.3blue1brown.com/  
+
+#### RFC Internet Application Document | 面向评论请求 互连网络应用文档  
+https://www.rfc-editor.org/  
+
+#### LeetCode Computer Science Material | 力扣(民事法庭代码) 计算机科学材料  
+https://leetcode.com/explore/  
+
+#### Kaggle Analyze Data | Kaggle 分析数据  
+https://www.kaggle.com/  
