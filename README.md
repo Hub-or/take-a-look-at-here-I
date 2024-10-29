@@ -116,6 +116,10 @@ https://www.3blue1brown.com/
 #### RFC Internet Application Document | 面向评论请求 互连网络应用文档  
 https://www.rfc-editor.org/  
 
+#### ctypes Python Absorb C Language Function Library | ctypes 蟒蛇吸收C语言函数库  
+https://docs.python.org/zh-cn/3/library/ctypes.html  
+
+### Friendly | 友情  
 #### LeetCode Computer Science Material | 力扣(民事法庭代码) 计算机科学材料  
 https://leetcode.com/explore/  
 
@@ -123,4 +127,4 @@ https://leetcode.com/explore/
 https://www.kaggle.com/  
 
 #### RealPython Python Language Material | 真实蟒蛇 蟒蛇语言材料  
-https://realpython.com/  
+https://realpython.com/
