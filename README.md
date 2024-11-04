@@ -119,6 +119,9 @@ https://www.rfc-editor.org/
 #### ctypes Python Absorb C Language Function Library | ctypes 蟒蛇吸收C语言函数库  
 https://docs.python.org/zh-cn/3/library/ctypes.html  
 
+#### Wikipedia | 维基百科  
+https://en.wikipedia.org/  
+
 ### Friendly | 友情  
 #### LeetCode Computer Science Material | 力扣(民事法庭代码) 计算机科学材料  
 https://leetcode.com/explore/  
@@ -127,4 +130,10 @@ https://leetcode.com/explore/
 https://www.kaggle.com/  
 
 #### RealPython Python Language Material | 真实蟒蛇 蟒蛇语言材料  
-https://realpython.com/
+https://realpython.com/  
+
+#### Baidu Baike | 百度百科  
+https://baike.baidu.com/  
+
+#### Brilliant | 宝石  
+https://brilliant.org/  
