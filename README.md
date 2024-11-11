@@ -60,6 +60,9 @@ https://aka.ms/WindowsApp
 #### DevDocs Programming Language Documentation | DevDocs(一些开发文档) 编程语言文档  
 https://devdocs.io/  
 
+#### Rust language | 锈语言
+https://www.rust-lang.org/
+
 #### Computer Science Wiki | 计算机科学维基  
 "Wiki" word - As website allows visitors to add or modify data | “维基”词汇-作为网站允许访问者添加或修改数据  
 https://computersciencewiki.org/index.php?title=Welcome  
@@ -71,7 +74,7 @@ https://www.runoob.com/
 #### Linux Kernel | Linux 内核  
 https://www.kernel.org/  
 
-#### OpenHarmony Kernel | 和谐开放内核  
+#### OpenHarmony Kernel | 开源鸿蒙（和谐开放）内核  
 https://gitee.com/openharmony  
 
 ### Participate | 参与  
@@ -122,6 +125,9 @@ https://docs.python.org/zh-cn/3/library/ctypes.html
 #### Wikipedia | 维基百科  
 https://en.wikipedia.org/  
 
+#### Hung-yi Lee | 李宏毅
+https://speech.ee.ntu.edu.tw/~hylee/index.php  
+
 ### Friendly | 友情  
 #### LeetCode Computer Science Material | 力扣(民事法庭代码) 计算机科学材料  
 https://leetcode.com/explore/  
@@ -137,3 +143,6 @@ https://baike.baidu.com/
 
 #### Brilliant | 宝石  
 https://brilliant.org/  
+
+#### CSDIY | 计算机科学自己做
+https://csdiy.wiki/  
