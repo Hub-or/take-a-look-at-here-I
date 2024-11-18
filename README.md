@@ -15,7 +15,8 @@ Apply type hints at interface. | 接口中应用类型提示。
 
 #### Jottings | 随笔
 Either system or application have robustness, function have no robustness. | 系统或应用存在鲁棒性，函数没有鲁棒性。  
-Copy URL to horizontal text bar in the top of browser (address bar). | 复制URL到浏览器上方水平文本框横条（地址栏）。
+Copy URL to horizontal text bar in the top of browser (address bar). | 复制URL到浏览器上方水平文本框横条（地址栏）。  
+"Wiki" word: A website, it allows visitors to add or modify data. | “维基”词汇：一个网站，网站允许访问者添加或修改数据。  
 
 ### Application | 应用  
 #### FileZilla Transfer File by File Transfer Protocol | 文件专区 传输文件采用文件传输协议  
@@ -65,7 +66,6 @@ https://devdocs.io/
 https://www.rust-lang.org/
 
 #### Computer Science Wiki | 计算机科学维基  
-"Wiki" word - As website allows visitors to add or modify data | “维基”词汇-作为网站允许访问者添加或修改数据  
 https://computersciencewiki.org/index.php?title=Welcome  
 
 #### Rookie Tutorial | 菜鸟教程  
@@ -73,6 +73,9 @@ https://www.runoob.com/
 
 #### ctypes Python Absorb C Language Function Library | ctypes 蟒蛇吸收C语言函数库  
 https://docs.python.org/zh-cn/3/library/ctypes.html  
+
+#### Anaconda Pack Combination of Programming Language Code Packages | 水蟒 打包编程语言代码包的组合
+https://anaconda.org/
 
 ### Know | 认识
 #### Linux Kernel | Linux 内核  
