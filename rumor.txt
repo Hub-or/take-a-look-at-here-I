@@ -1,2 +1,5 @@
+241116 - Python 3.12: Correct typing for list[list[int,str,list[list[str]]]]
+241113 - 开源C库列表
+241113 - Wallpapers - Microsoft Design
 241109 - Language Models are Unsupervised Multitask Learners
 241109 - 中文任务全面超越 BERT：百度正式发布NLP预训练模型ERNIE
